@@ -15,4 +15,4 @@ Steps to deploy
 ##Copyright
 Some blash blash
 Add line to test rebase, with more changes
-Adding more content to test merge
+Updating content for stash
